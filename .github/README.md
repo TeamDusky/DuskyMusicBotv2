@@ -14,9 +14,9 @@
 
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
 
-## ⚠️ Heroku / Okteto / Railway
+## <b> 🚀 Deploy On Heroku </b>
 
-We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/TheYukki/2541)
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TeamDusky/DuskyMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 ## 🖇 Generating Pyrogram String Session
 
