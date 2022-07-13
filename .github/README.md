@@ -16,7 +16,7 @@
 
 ## <b> 🚀 Deploy On Heroku </b>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TeamDusky/DuskyMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TeamDusky/DuskyMusicBotv2.git"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 ## 🖇 Generating Pyrogram String Session
 
